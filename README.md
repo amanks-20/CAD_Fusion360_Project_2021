@@ -1,6 +1,6 @@
 # Computer Aided Designing(CAD) Project (using Autodesk Fusion 360 Software)
 
-<code><img height="80" src = "assets/images/aero.png"></code> <code><img height="80" src = "assets/images/f360.png"></code>
+<code><img height="80" src = "assets/images/aeroclub.png"></code> <code><img height="80" src = "assets/images/snt.jpg"></code>
 # Semester Project 2020-21,   Aeromodelling Club, IIT Kanpur
 <https://home.iitk.ac.in/~amanks20/projects/cad/>
 
