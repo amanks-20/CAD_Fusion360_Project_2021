@@ -41,5 +41,4 @@ Sushma,
 Vasu Paliwal
 
 <code><img height="400" src = "assets/images/cad-poster.jpg"></code>
-<code><img height="" width="400" src = "assets/images/cad-team.png"></code>
 
