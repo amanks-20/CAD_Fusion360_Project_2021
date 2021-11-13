@@ -2,7 +2,7 @@
 
 <code><img height="80" src = "assets/images/aeroclub.png"></code> <code><img height="80" src = "assets/images/snt.jpg"></code>
 # Semester Project 2020-21,   Aeromodelling Club, IIT Kanpur
-<https://home.iitk.ac.in/~amanks20/projects/cad/>
+<https://amanks-20.github.io/CAD-Project/>
 
 >Project Description :-
 Learned to use Autodesk Fusion 360 software and its various features. Learned to create 2D and 3D designs of various mechanical components and assemble them. Moreover, learned how to design some necessary parts of an airplane such as wings, fuselage, fins, etc.
