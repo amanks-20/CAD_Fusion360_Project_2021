@@ -4,9 +4,9 @@
 
 # Semester Project 2020-21, Aeromodelling Club, IIT Kanpur
 
-<https://amanks-20.github.io/CAD-Project/>
+[https://amanks-20.github.io/CAD-Project/](amanks-20.github.io/CAD-Project)
 
-###Project Description
+## Project Description
 
 - Learned to use Autodesk Fusion 360 software and its various features.
 - Learned to create 2D and 3D designs of various mechanical components and assemble them.
