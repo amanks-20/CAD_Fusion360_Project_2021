@@ -17,32 +17,33 @@
 
 ## CAD Team Members (Y20 Students)
 
-| ------------------------------- |
-| Aastha Sitpal |
-| Abhiyanshu Kumar |
-| Ajeet Kumar |
-| Aman Kumar Singh |
-| Anshika Singh |
-| Anukriti Singh |
-| Aryan Raj |
-| Ashish Sharma |
-| Baishali Das |
-| Bhumik Mehra |
-| Keyur Panchal |
-| Kritika Bansal |
-| Naveen Teja |
-| Padma Ram Rahar |
+| Names               |
+| ------------------- |
+| Aastha Sitpal       |
+| Abhiyanshu Kumar    |
+| Ajeet Kumar         |
+| Aman Kumar Singh    |
+| Anshika Singh       |
+| Anukriti Singh      |
+| Aryan Raj           |
+| Ashish Sharma       |
+| Baishali Das        |
+| Bhumik Mehra        |
+| Keyur Panchal       |
+| Kritika Bansal      |
+| Naveen Teja         |
+| Padma Ram Rahar     |
 | Paramveer Choudhary |
 | Prachi S Rahangdale |
-| Prakhar Gupta |
-| Pratyush Gupta |
-| Preeti Kumari |
-| Priya Satwika |
-| Rahbar Shakeer |
-| Rohit Chaudhary |
-| Shivangi |
-| Shubham Kumar |
-| Sushma |
-| Vasu Paliwa |
+| Prakhar Gupta       |
+| Pratyush Gupta      |
+| Preeti Kumari       |
+| Priya Satwika       |
+| Rahbar Shakeer      |
+| Rohit Chaudhary     |
+| Shivangi            |
+| Shubham Kumar       |
+| Sushma              |
+| Vasu Paliwa         |
 
 <code><img height="400" src = "assets/images/cad-poster.jpg"></code>
