@@ -17,7 +17,7 @@
 
 ## CAD Team Members (Y20 Students)
 
-| Names               |
+| Team Members               |
 | ------------------- |
 | Aastha Sitpal       |
 | Abhiyanshu Kumar    |
