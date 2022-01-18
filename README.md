@@ -6,8 +6,11 @@
 
 <https://amanks-20.github.io/CAD-Project/>
 
-> Project Description :-
-> Learned to use Autodesk Fusion 360 software and its various features. Learned to create 2D and 3D designs of various mechanical components and assemble them. Moreover, learned how to design some necessary parts of an airplane such as wings, fuselage, fins, etc.
+###Project Description
+
+- Learned to use Autodesk Fusion 360 software and its various features.
+- Learned to create 2D and 3D designs of various mechanical components and assemble them.
+- Moreover, learned how to design some necessary parts of an airplane such as wings, fuselage, fins, etc.
 
 ## Project Mentors (Y19 Students)
 
@@ -17,7 +20,7 @@
 
 ## CAD Team Members (Y20 Students)
 
-| Team Members               |
+| Team Members        |
 | ------------------- |
 | Aastha Sitpal       |
 | Abhiyanshu Kumar    |
