@@ -6,6 +6,8 @@
 
 [amanks-20.github.io/CAD-Project](https://amanks-20.github.io/CAD-Project/)
 
+<code><img height="400" src = "assets/images/cad-poster.jpg"></code>
+
 ## Project Description
 
 - Learned to use Autodesk Fusion 360 software and its various features.
@@ -49,4 +51,4 @@
 | Sushma              |
 | Vasu Paliwa         |
 
-<code><img height="400" src = "assets/images/cad-poster.jpg"></code>
+
