@@ -18,7 +18,7 @@
 
 - Mohit Anand
 - Pranshu Singhal
-- Raj Agrawa
+- Raj Agrawal
 
 ## CAD Team Members (Y20 Students)
 
@@ -49,4 +49,4 @@
 | Shivangi            |
 | Shubham Kumar       |
 | Sushma              |
-| Vasu Paliwa         |
+| Vasu Paliwal        |
