@@ -15,7 +15,8 @@
 - Pranshu Singhal
 - Raj Agrawa
 
-| CAD Team Members (Y20 Students) |
+## CAD Team Members (Y20 Students)
+
 | ------------------------------- |
 | Aastha Sitpal                   |
 | Abhiyanshu Kumar                |
