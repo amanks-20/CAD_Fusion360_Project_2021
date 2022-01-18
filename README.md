@@ -4,7 +4,7 @@
 
 # Semester Project 2020-21, Aeromodelling Club, IIT Kanpur
 
-[https://amanks-20.github.io/CAD-Project/](amanks-20.github.io/CAD-Project)
+[amanks-20.github.io/CAD-Project](https://amanks-20.github.io/CAD-Project/)
 
 ## Project Description
 
