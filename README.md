@@ -2,7 +2,7 @@
 
 <code><img height="80" src = "assets/images/aeroclub.png"></code> <code><img height="80" src = "assets/images/snt.jpg"></code>
 
-# Semester Project 2020-21, Aeromodelling Club, IIT Kanpur
+### Semester Project 2020-21, Aeromodelling Club, Science & Technology Council, IIT Kanpur
 
 | <code><img height="400" src = "assets/images/cad-poster.jpg"></code>                                       |
 | ---------------------------------------------------------------------------------------------------------- |
