@@ -4,7 +4,7 @@
 
 # Semester Project 2020-21, Aeromodelling Club, IIT Kanpur
 
-| <code><img height="400" src = "assets/images/cad-poster.jpg"></code>.                                      |
+| <code><img height="400" src = "assets/images/cad-poster.jpg"></code>                                       |
 | ---------------------------------------------------------------------------------------------------------- |
 | [amanks-20.github.io/CAD-Project](https://amanks-20.github.io/CAD-Project/)                                |
 | [Presentation](https://docs.google.com/presentation/d/17gZB3R6KSQAxSEpHDdPOjEXFRFch-gWRPHSoxOs1btM/edit)   |
