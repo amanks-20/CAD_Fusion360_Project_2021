@@ -9,12 +9,8 @@
 
 | Project Details     |
 | ------------------- |
-| ### [Presentation](https://docs.google.com/presentation/d/17gZB3R6KSQAxSEpHDdPOjEXFRFch-gWRPHSoxOs1btM/edit)   |
-| ### [Documentation](https://docs.google.com/document/d/1SaszXv2MAgd7zlRsBvF86U4wZI7s_6r3p4Wu_YYLtFw/edit)      |
-
-### [Presentation](https://docs.google.com/presentation/d/17gZB3R6KSQAxSEpHDdPOjEXFRFch-gWRPHSoxOs1btM/edit)
-
-### [Documentation](https://docs.google.com/document/d/1SaszXv2MAgd7zlRsBvF86U4wZI7s_6r3p4Wu_YYLtFw/edit)
+| [Presentation](https://docs.google.com/presentation/d/17gZB3R6KSQAxSEpHDdPOjEXFRFch-gWRPHSoxOs1btM/edit)   |
+| [Documentation](https://docs.google.com/document/d/1SaszXv2MAgd7zlRsBvF86U4wZI7s_6r3p4Wu_YYLtFw/edit)      |
 
 <code><img height="400" src = "assets/images/cad-poster.jpg"></code>
 
